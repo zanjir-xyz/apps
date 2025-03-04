@@ -1,0 +1,14 @@
+---
+apps:
+  hello_world:
+    title: سلام دنیا!
+    description: یک اپلیکیشن بی‌هدف در زنجیر!
+    path: apps/hello_world
+    authors:
+    - کیوان کامبخش
+  mint:
+    title: ضرابخانه
+    description: توکن جدید بسازید!
+    path: apps/mint
+    authors:
+    - کیوان کامبخش
